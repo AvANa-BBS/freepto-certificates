@@ -1,4 +1,4 @@
 freepto-certificates
-====================
+=================
 
-Freepto certificates
+Freepto’s certificates
