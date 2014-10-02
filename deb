@@ -15,5 +15,6 @@ Files: ai.crt /usr/share/ca-certificates/
  riseup.crt /usr/share/ca-certificates/
  sks-keyservers.crt /usr/share/ca-certificates/
 
-Description: This is a Freepto package that include the certificates 
- used by Freepto.
+Description: This is a Freepto package that include the root CA certificates
+ of the autonomous services: Autistici/Inventati, Ortiche, RiseUp
+ And other useful CA (freepto ca, sks-keyservers).
