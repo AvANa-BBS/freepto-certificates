@@ -7,6 +7,7 @@ Package: freepto-certificates
 Version: 0.1
 Maintainer: vinc3nt <vinc3nt@riseup.net>
 Postinst: postinst
+Postrm: postrm
 Depends: ca-certificates
 Files: ai.crt /usr/local/share/ca-certificates/
  freepto.crt /usr/local/share/ca-certificates/
