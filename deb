@@ -9,11 +9,11 @@ Maintainer: vinc3nt <vinc3nt@riseup.net>
 Postinst: postinst
 Postrm: postrm
 Depends: ca-certificates
-Files: ai.crt /usr/local/share/ca-certificates/
- freepto.crt /usr/local/share/ca-certificates/
- ortiche.crt /usr/local/share/ca-certificates/
- riseup.crt /usr/local/share/ca-certificates/
- sks-keyservers.crt /usr/local/share/ca-certificates/
+Files: ai.crt /usr/share/ca-certificates/
+ freepto.crt /usr/share/ca-certificates/
+ ortiche.crt /usr/share/ca-certificates/
+ riseup.crt /usr/share/ca-certificates/
+ sks-keyservers.crt /usr/share/ca-certificates/
 
 Description: This is a Freepto package that include the certificates 
  used by Freepto.
